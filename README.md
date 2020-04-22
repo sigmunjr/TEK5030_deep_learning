@@ -3,6 +3,14 @@ This week we have 3 exercises. They each have a [python notebook](https://jupyte
 
 (not recommended) Alternatively you could use https://www.kaggle.com/notebooks to run the notebooks, or you can [install and run jupyter notebook](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46) on your own machine.
 
+## Enable GPU in colab
+For the best experience you'll need to enable GPUs for the notebook:
+
+- Navigate to Edit→Notebook Settings
+- select GPU from the Hardware Accelerator drop-down
+
+*I also recommend to click "Copy in drive" to run the code in your own Google Drive*
+
 ## Exercise 1: Simple Convolutional Neural network (CNN)
 [![Open exercise in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sigmunjr/TEK5030_deep_learning/blob/master/TEK5030_deep_learning_EX1.ipynb)[TEK5030_deep_learning_EX1.ipynb](https://colab.research.google.com/github/sigmunjr/TEK5030_deep_learning/blob/master/TEK5030_deep_learning_EX1.ipynb)
 
