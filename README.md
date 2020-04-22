@@ -11,6 +11,17 @@ For the best experience you'll need to enable GPUs for the notebook:
 
 *I also recommend to click "Copy in drive" to run the code in your own Google Drive*
 
+## Learn more about Tensorflow
+On [tensorflow.org/tutorials](https://www.tensorflow.org/tutorials) can you find lots of learning material and good tutorials.
+
+If you find our exercises hard, it could be a good idea to check out one of the tensorflow tutorials, as they are much more in depth.
+
+- [Beginner quickstart](https://www.tensorflow.org/tutorials/quickstart/beginner)
+- [Keras basics](https://www.tensorflow.org/tutorials/keras/classification)
+- [Load data](https://www.tensorflow.org/tutorials/load_data/csv)
+- [Advanced quickstart](https://www.tensorflow.org/tutorials/quickstart/advanced)
+- [Customization](https://www.tensorflow.org/tutorials/customization/basics)
+
 ## Exercise 1: Simple Convolutional Neural network (CNN)
 [![Open exercise in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sigmunjr/TEK5030_deep_learning/blob/master/TEK5030_deep_learning_EX1.ipynb)[TEK5030_deep_learning_EX1.ipynb](https://colab.research.google.com/github/sigmunjr/TEK5030_deep_learning/blob/master/TEK5030_deep_learning_EX1.ipynb)
 
