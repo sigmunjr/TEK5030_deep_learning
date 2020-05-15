@@ -40,6 +40,6 @@ Read in github (cannot run) [TEK5030_deep_learning_EX3.ipynb](TEK5030_deep_learn
 ## Solutions
 [TEK5030_deep_learning_EX1_solutions.ipynb](https://colab.research.google.com/github/sigmunjr/TEK5030_deep_learning/blob/master/TEK5030_deep_learning_EX1_solutions.ipynb)
 
-[TEK5030_deep_learning_EX2_solutions.ipynb](https://colab.research.google.com/github/sigmunjr/TEK5030_deep_learning/blob/master/TEK5030_deep_learning_EX2_solutions.ipynb)
+[TEK5030_deep_learning_EX2_solution.ipynb](https://colab.research.google.com/github/sigmunjr/TEK5030_deep_learning/blob/master/TEK5030_deep_learning_EX2_solution.ipynb)
 
 [TEK5030_deep_learning_EX3_solutions.ipynb](https://colab.research.google.com/github/sigmunjr/TEK5030_deep_learning/blob/master/TEK5030_deep_learning_EX3_solutions.ipynb)
